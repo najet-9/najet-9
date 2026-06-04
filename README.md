@@ -9,7 +9,9 @@
  French
 
 ## Tech Stack
-firebase • C • Git • flutter
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,git," />
+</p>
 
 ## Current Goal
 strengthen software engineering skills.
