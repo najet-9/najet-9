@@ -29,5 +29,3 @@ Currently focused on strengthening my **Software Engineering** skills.
 
 > Strengthen software engineering skills — one commit at a time.
 
----
-
