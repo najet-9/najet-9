@@ -31,6 +31,3 @@ Currently focused on strengthening my **Software Engineering** skills.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadjet&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
