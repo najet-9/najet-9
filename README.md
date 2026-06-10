@@ -6,27 +6,32 @@
 
 <br/>
 
+<div align="center">
+
+</div>
 
 ---
 
-### 🤍 About Me
+###  About Me
 
 ```
   Hi, I'm nadjet — a CS student interested in Software Engineering.
 
-  - Algeria
-  - Computer Science Student
-  - Interested in Software Engineering
-  - Arabic · English · French
+   Algeria
+   Computer Science Student
+   Interested in Software Engineering
+   Arabic · English · French
 ```
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git&theme=dark" />
 </p>
+
+
 
 ---
 
@@ -38,7 +43,3 @@
 
 <br/>
 
-<div align="center">
-
-
-</div>
