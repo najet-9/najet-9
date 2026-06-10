@@ -1,8 +1,6 @@
-
-           
 <h1 align="center">Wecolome to my GitHub </h1>
 
-
+![Banner](banner.png)
 
 ---
 
