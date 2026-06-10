@@ -1,18 +1,36 @@
+# Welcome to my github
+
 ![Banner](banner.jfif)
-# Hi, I'm nadjet :) 
 
-- Computer Science Student
-- Interested in Software Engineering
+---
 
-## Languages
- Arabic
- English
- French
+###  About Me
 
-## Tech Stack
+I'm a **Computer Science Student** passionate about building great software.  
+Currently focused on strengthening my **Software Engineering** skills.
+
+---
+
+###  Languages
+
+🇸🇦 Arabic &nbsp;|&nbsp; 🇬🇧 English &nbsp;|&nbsp; 🇫🇷 French
+
+---
+
+###  Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,git," />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git" />
 </p>
 
-## Current Goal
-strengthen software engineering skills.
+---
+
+###  Current Goal
+
+> Strengthen software engineering skills — one commit at a time.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadjet&color=blueviolet&style=flat-square" alt="profile views" />
+</p>
