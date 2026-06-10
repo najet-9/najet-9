@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="download(13).jfif" alt="banner" width="100%" height="120px" style="object-fit: cover; object-position: center;"/>
+  <img src="download (13).jfif" alt="banner" width="100%" height="120px" style="object-fit: cover; object-position: center;"/>
 </div>
 
 <br/>
