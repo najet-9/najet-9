@@ -1,36 +1,49 @@
 <div align="center">
+  <img src="banner(1).png" alt="banner" width="100%"/>
+</div>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=180&section=header&text=Hi,%20I'm%20nadjet%20%3A)&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Engineering%20Enthusiast&descSize=16&descAlignY=58&descColor=c9d1d9)
+<br/>
+
+<div align="center">
+
+# 　nadjet
+
+*Computer Science Student &nbsp;·&nbsp; Software Engineering Enthusiast*
 
 </div>
 
 ---
 
-###  About Me
+<br/>
 
--  Computer Science Student
--  Interested in **Software Engineering**
--  Currently focused on strengthening my SE fundamentals
--  Languages: **Arabic · English · French**
+**About**
 
----
+```
+  CS Student
+  Interested in Software Engineering
+  Arabic  ·  English  ·  French
+```
 
-###  Tech Stack
+<br/>
+
+**Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,firebase,git&theme=dark" />
 </p>
 
----
+<br/>
 
-###  Current Goal
+**Current Goal**
 
-> *Building a solid foundation in Software Engineering — one project at a time.*
+```
+Strengthening software engineering skills — one project at a time.
+```
+
+<br/>
 
 ---
 
 <div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=100&section=footer)
-
+<sub>quietly building ⚔️</sub>
 </div>
