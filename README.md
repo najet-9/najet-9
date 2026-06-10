@@ -1,6 +1,6 @@
 # welcome to my GitHub
 
-![Banner](banner.jfif)
+
 
 ---
 
