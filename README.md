@@ -1,6 +1,6 @@
-# welcome to my GitHub
+<h1 align="center">WEclome to my GitHub </h1>
 
-
+![Banner](artwork.png)
 
 ---
 
