@@ -1,4 +1,4 @@
-![Banner](images/banner.jfif)
+![Banner](banner.jfif)
 # Hi, I'm nadjet :) 
 
 - Computer Science Student
