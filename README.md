@@ -1,4 +1,4 @@
-# Welcome to my github
+# welcome to my GitHub
 
 ![Banner](banner.jfif)
 
