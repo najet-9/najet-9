@@ -20,7 +20,7 @@ Currently focused on strengthening my **Software Engineering** skills.
 ###  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,typeScript" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,TS" />
 </p>
 
 ---
